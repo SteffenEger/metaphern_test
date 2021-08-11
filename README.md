@@ -7,6 +7,15 @@ We annotated according to two theories:
 * Theory 2 ("MIP"): short description
       
       
+Contributors:
+* PG
+* SE
+* BM
+* PB
+* ...
+
+You could also give a link to our FIF page.
+      
 ## Organization of the project
 
 * [Metaphernbruch](Metaphernbruch): In this folder, we give all our manual annotations regarding theory 1 from above
