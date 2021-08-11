@@ -4,6 +4,7 @@ This repository describes our annotations for the project [XYZ]. In the project,
 We annotated according to two theories:
 
           * Theory 1: short description
+          
           * Theory 2: short description
       
       
