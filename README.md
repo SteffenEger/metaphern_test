@@ -8,3 +8,6 @@ We annotated according to two theories:
       
       
 ## Organization of the project
+
+* [Metaphernbruch](..): In this folder, we give all our manual annotations regarding theory 1 from above
+* [MIP](...): In this folder, we give all our manual annotations regarding theory 2 from above
